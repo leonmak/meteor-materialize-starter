@@ -24,3 +24,4 @@ useraccounts:materialize
 accounts-password
 iron:router
 zimme:active-route
+useraccounts:iron-routing
