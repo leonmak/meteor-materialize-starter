@@ -25,3 +25,6 @@ accounts-password
 iron:router
 zimme:active-route
 useraccounts:iron-routing
+sacha:spin
+aldeed:collection2
+aldeed:autoform
